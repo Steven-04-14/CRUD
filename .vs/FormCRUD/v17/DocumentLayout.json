@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Ejercicos de C#\\FormCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F25F0F8-5EFD-4928-8724-B8B3D27231FB}|FormCRUD\\FormCRUD.csproj|c:\\users\\user\\documents\\ejercicos de c#\\formcrud\\formcrud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F25F0F8-5EFD-4928-8724-B8B3D27231FB}|FormCRUD\\FormCRUD.csproj|solutionrelative:formcrud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F25F0F8-5EFD-4928-8724-B8B3D27231FB}|FormCRUD\\FormCRUD.csproj|c:\\users\\user\\documents\\ejercicos de c#\\formcrud\\formcrud\\pages\\productomaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F25F0F8-5EFD-4928-8724-B8B3D27231FB}|FormCRUD\\FormCRUD.csproj|solutionrelative:formcrud\\pages\\productomaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ejercicos de C#\\FormCRUD\\FormCRUD\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormCRUD\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ejercicos de C#\\FormCRUD\\FormCRUD\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormCRUD\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T03:27:36.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ejercicos de C#\\FormCRUD\\FormCRUD\\Pages\\ProductoMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormCRUD\\Pages\\ProductoMaster\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ejercicos de C#\\FormCRUD\\FormCRUD\\Pages\\ProductoMaster\\Index.cshtml",
+              "RelativeToolTip": "FormCRUD\\Pages\\ProductoMaster\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T03:27:05.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
